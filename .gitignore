@@ -1,0 +1,6 @@
+build/
+*.o
+mp3_tag_reader
+cover.jpg
+cover.png
+*.mp3
